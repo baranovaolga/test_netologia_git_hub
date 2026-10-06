@@ -7,3 +7,4 @@ NeuroStartUp is a dynamically developing startup specializing in search using th
 High search accuracy
 High search speed
 Low price
+😊
